@@ -1,5 +1,5 @@
 {
-  "url": "https://esim-server.ngrok.app",
+  "url": "https://esim-dana-staging.vercel.app",
   "pages": ["pages/index/index"],
   "window": {
     "titleBarColor": "#ffffff"
