@@ -1,0 +1,8 @@
+<web-view id="{{WEB_VIEW_CTX_TARGET}}" src="{{url}}" onMessage="onMessage"></web-view>
+
+<view a:if="{{!isMiniappLoaded}}">
+  <view class="spinner">
+    <view class="lds-spinner"><view></view><view></view><view></view><view></view><view></view><view></view><view></view><view></view><view></view><view></view><view></view><view></view></view>
+  </view>
+  <image class="powered" mode="scaleToFit" src="../../assets/powered.svg"/>
+</view>

@@ -1,0 +1,7 @@
+{
+  "url": "https://esim-server.ngrok.app",
+  "pages": ["pages/index/index"],
+  "window": {
+    "titleBarColor": "#ffffff"
+  }
+}
